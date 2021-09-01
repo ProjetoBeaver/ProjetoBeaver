@@ -4,6 +4,13 @@
 Inspirado nas formigas, que possuêm um dos maiores e mais eficazes exemplos de trabalho em pró da própria comunidade. "Trabalho de formiguinha", cada uma fazendo sua parte em pró de um objetivo em comum. 
 Ao mesmo tempo, o nome é For Migs, faz uma mix de inglês e gíria português BR, For = Para, ou seja, Para amigos. Sem contar que Migs é neutro, e se refere a qualquer pessoa independente de gênero.
 
+Tecnologias utilizadas:
+<div>
+  <a href="https://github.com/ProjetoForMigs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ProjetoForMigs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoForMigs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 Este projeto está sendo elaborado na turma 26 do Bootcamp da Generation por um grupo de cinco integrantes listados abaixo:
 ## Ary de Sá
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam4ry/)](https://www.linkedin.com/in/iam4ry/) 
