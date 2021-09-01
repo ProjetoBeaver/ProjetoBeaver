@@ -1,6 +1,8 @@
 # Olá visitante, tudo bem?
 
-O **Beaver**  é uma rede social capaz de mudar a realidade da população e trabalhar a desigualdade social do país, tendo como principal objetivo facilitar o acesso de pessoas que se encontram em situação de vulnerabilidade social com projetos de moradia popular. A rede também possibilita a parceria entre empresas, arrecadações de donativos e divulgação de novos projetos.
+**ForMigs**  é uma rede social capaz de mudar a realidade da população e trabalhar a desigualdade social do país, tendo como principal objetivo facilitar o acesso de pessoas que se encontram em situação de vulnerabilidade social com projetos de moradia popular. A rede também possibilita a parceria entre empresas, arrecadações de donativos e divulgação de novos projetos.
+Inspirado nas formigas, que possuêm um dos maiores e mais eficazes exemplos de trabalho em pró da própria comunidade. "Trabalho de formiguinha", cada uma fazendo sua parte em pró de um objetivo em comum. 
+Ao mesmo tempo, o nome é For Migs, faz uma mix de inglês e gíria português BR, For = Para, ou seja, Para amigos. Sem contar que Migs é neutro, e se refere a qualquer pessoa independente de gênero.
 
 Este projeto está sendo elaborado na turma 26 do Bootcamp da Generation por um grupo de cinco integrantes listados abaixo:
 ## Ary de Sá
