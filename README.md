@@ -9,6 +9,7 @@ Tecnologias utilizadas:
   <a href="https://github.com/ProjetoForMigs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ProjetoForMigs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoForMigs&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 Este projeto está sendo elaborado na turma 26 do Bootcamp da Generation por um grupo de cinco integrantes listados abaixo:
